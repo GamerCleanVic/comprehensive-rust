@@ -3,6 +3,7 @@
 *.exe
 *.sh
 *./olaMundo/exercise1/target/*
+olaMundo/exercise1/target/
 *./olaMundo/./target/*
 *./././target/*
 *./target/
