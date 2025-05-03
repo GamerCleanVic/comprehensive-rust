@@ -1,5 +1,5 @@
 *.bin
 *.exe
 *.sh
-*target/
+*./olaMundo/exercise1/target/*
 *main
