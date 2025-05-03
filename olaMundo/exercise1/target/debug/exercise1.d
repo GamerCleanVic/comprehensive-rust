@@ -1,1 +1,1 @@
-/home/std/Documentos/onlineEstudos/comprehensive-rust/olaMundo/exarcise1/target/debug/exarcise1: /home/std/Documentos/onlineEstudos/comprehensive-rust/olaMundo/exarcise1/src/main.rs
+/home/std/Documentos/onlineEstudos/comprehensive-rust/olaMundo/exercise1/target/debug/exercise1: /home/std/Documentos/onlineEstudos/comprehensive-rust/olaMundo/exercise1/src/main.rs
